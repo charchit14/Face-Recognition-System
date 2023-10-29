@@ -10,3 +10,5 @@ If you close the window and re-run the program the previous data will be over-wr
 
 ## NOTE:
 Make sure that you save your image or the images that you want to detect in the 'faces' folder of this program and edit the program by renaming the images name accordingly.
+
+Also, install the required packages listed on '.toml' file.
