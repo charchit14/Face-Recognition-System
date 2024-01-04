@@ -1,3 +1,6 @@
+# (To view the code, navigate to 'master' branch)
+<br>
+
 # About this program
 This program recognizes face by comparing the live face (detected via webcam) with saved images (faces).
 
